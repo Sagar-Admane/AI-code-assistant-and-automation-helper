@@ -143,7 +143,7 @@ POST http://localhost:5679/getTools/summarizePR
 🚀 Cloud deployment on Railway + Docker
 
 🧑‍💻 Author
-Sagar [@github.com/<your-handle>]
+Sagar [@github.com/sagar-admane]
 
 “Built it, tested it, automated it — all without touching the mouse too much.”
 
